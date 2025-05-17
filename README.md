@@ -2,6 +2,10 @@
 
 This project implements the game of Minesweeper and an AI agent capable of playing it. The AI uses logical inference to deduce the locations of mines and safe cells on the board.
 
+## Video Demo
+
+[Project Demo Video](https://www.youtube.com/watch?v=KKIweTb6s1E&ab_channel=%E6%9D%B1%E9%A2%A8%E7%A5%9E) 
+
 ## Files
 
 *   `minesweeper.py`: Contains all the core logic for the Minesweeper game itself, as well as the AI player. This includes:
